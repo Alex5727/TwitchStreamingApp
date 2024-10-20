@@ -12,8 +12,8 @@ namespace TwitchStreamingApp
 {
     public partial class MainPage : ContentPage
     {
-        private const string ClientId = "lt3p7af6vamltum6bkp5s3qf94gjwi"; // Reemplaza con tu Client ID
-        private const string AccessToken = "d8xb68p5ja473p69uxf9x3caq5wowb"; // Reemplaza con tu Access Token
+        private const string ClientId = "lt3p7af6vamltum6bkp5s3qf94gjwi"; 
+        private const string AccessToken = "nfkzkeyle69a2lgnji89ld303c9pds"; 
 
         public MainPage()
         {
